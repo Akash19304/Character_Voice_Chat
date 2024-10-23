@@ -1,5 +1,4 @@
 import time
-from turtle import st
 import keyboard
 from rich import print
 from openai_chat import OpenAiManager
